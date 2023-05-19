@@ -2,18 +2,16 @@
 We create healthy environments for developers, empowering them to boost efficiency and grow business.
 
 ## What we do ⚙️
-We focus on providing tools and features that reduce developer friction. These tools reduce context switching and provide an educational experience enhanced by shift-left security, standardization, reusability, and traceability. 
-Our three main focus areas are: 
 
+Our main focus is to deliver business-oriented solutions that streamline developer processes. These resources effectively minimize disruptions caused by context switching and contribute to an educational environment enriched with advanced security measures, standardized processes, reusable components, and comprehensive traceability. Our three main focus areas are: 
 
 ### Platform Engineering
 Platforms are a great way to streamline development workflows, since they enforce common company standards, *ways of working*, and best practices that ensures that everyone is moving in the same direction.
 
-### Feedback Loop Acceleration
+### Accelerate
 Fast feedback loops are essential to achieve velocity and efficiency.
 
 Both inner loop (local and dev environments) and outer loop (CI/CD, preview environments, customer feedback collection) are crucial and can be accelerated.
-
 
 ### Developer Efficiency Assessment
 By examining your team and your organization, you get an insight of what's exactly happening and how to perform better in the three velocity pillars: **technology, working practices & organizational enablement**
